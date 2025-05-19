@@ -65,7 +65,6 @@ Optional VR Support
 
 ## Dependencies:
 ```
-Component	Dependency
 3D Models	
 Voiceovers	
 Plant Data	
