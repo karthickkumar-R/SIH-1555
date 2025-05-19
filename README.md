@@ -51,7 +51,7 @@ Optional VR mode for immersive experience
 ![Screenshot 2025-05-19 210247](https://github.com/user-attachments/assets/cb476fd0-806d-41cf-b84a-c242fd93569e)
 
 ## Technology Stack:
-
+```
 Layer	
 Frontend UI	
 Backend	
@@ -60,9 +60,11 @@ Multimedia Hosting
 Search Engine	
 3D Rendering	
 Authentication	
-Optional VR Support	
+Optional VR Support
+```
 
 ## Dependencies:
+```
 Component	Dependency
 3D Models	
 Voiceovers	
@@ -71,6 +73,7 @@ Hosting
 Analytics	
 Localization	
 VR Hardware (Optional)
+```
 
 
 
